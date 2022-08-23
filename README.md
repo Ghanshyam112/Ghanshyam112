@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Devlopment
 - 🌱 I’m currently learning Android App Devlopment with Kotlin 
 - 💞️ I’m looking to collaborate on Android Projects
-- 📫 How to reach me [insta->@ghanshyamswami9571](https://www.instagram.com/ghanshyamswami9571/)
+- 📫 How to reach me [insta->@ghanshyamswami9571](https://www.instagram.com/ghanshyamswami9571/)   [Gmail](ghanshyamswami814@gmail.com)
 
 <!---
 Ghanshyam112/Ghanshyam112 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
